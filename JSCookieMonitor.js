@@ -524,7 +524,6 @@
             this.value = value;
             this.expires = expires;
         }
-
     }
 
 }
